@@ -56,13 +56,13 @@ jupyter notebook dashboard/dashboard_vendas.ipynb
 ```
 
 ## 📊 Exemplo de Gráficos:
--Vendas por Produto
--Distribuição por Categoria
--Evolução de Vendas por Dia
+- Vendas por Produto 
+- Distribuição por Categoria
+- Evolução de Vendas por Dia
 
 ## 🧠 Ideal Para:
--Prática de conceitos iniciais de ETL
--Iniciantes em Engenharia de Dados
--Estudo de visualização básica com Python
+- Prática de conceitos iniciais de ETL
+- Iniciantes em Engenharia de Dados
+- Estudo de visualização básica com Python
 
 
