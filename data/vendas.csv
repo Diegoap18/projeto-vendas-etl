@@ -1,0 +1,1001 @@
+data,produto,categoria,preco,quantidade
+2025-01-20,Mouse,Eletrônicos,99.9,4
+2025-01-11,Relógio,Acessórios,299.9,4
+2025-01-14,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-01,Mouse,Eletrônicos,99.9,3
+2025-01-14,Smartphone,Eletrônicos,2500.0,2
+2025-01-12,Smartphone,Eletrônicos,2500.0,5
+2025-01-20,Camiseta,Acessórios,29.9,3
+2025-01-23,Fone de Ouvido,Eletrônicos,149.9,5
+2025-01-25,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-09,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-24,Jaqueta,Roupas,229.9,4
+2025-01-18,Calça Jeans,Roupas,139.9,5
+2025-01-12,Camiseta,Acessórios,29.9,3
+2025-01-11,Relógio,Acessórios,299.9,5
+2025-01-10,Smartphone,Eletrônicos,2500.0,2
+2025-01-18,Smartphone,Eletrônicos,2500.0,3
+2025-01-18,Relógio,Acessórios,299.9,2
+2025-01-22,Jaqueta,Roupas,229.9,3
+2025-01-26,Calça Jeans,Roupas,139.9,4
+2025-01-08,Sandália,Calçados,89.9,2
+2025-01-14,Tênis,Calçados,199.9,3
+2025-01-16,Relógio,Acessórios,299.9,5
+2025-01-07,Smartphone,Eletrônicos,2500.0,5
+2025-01-14,Jaqueta,Roupas,229.9,3
+2025-01-21,Notebook,Eletrônicos,3500.0,5
+2025-01-09,Tênis,Calçados,199.9,5
+2025-01-01,Camiseta,Acessórios,29.9,2
+2025-01-17,Tênis,Calçados,199.9,5
+2025-01-31,Relógio,Acessórios,299.9,5
+2025-01-06,Jaqueta,Roupas,229.9,1
+2025-01-22,Mouse,Eletrônicos,99.9,5
+2025-01-28,Sandália,Calçados,89.9,2
+2025-01-05,Jaqueta,Roupas,229.9,5
+2025-01-17,Mouse,Eletrônicos,99.9,2
+2025-01-21,Relógio,Acessórios,299.9,4
+2025-01-10,Tênis,Calçados,199.9,2
+2025-01-26,Calça Jeans,Roupas,139.9,1
+2025-01-05,Notebook,Eletrônicos,3500.0,2
+2025-01-23,Notebook,Eletrônicos,3500.0,2
+2025-01-26,Smartphone,Eletrônicos,2500.0,4
+2025-01-24,Smartphone,Eletrônicos,2500.0,2
+2025-01-11,Mouse,Eletrônicos,99.9,5
+2025-01-25,Notebook,Eletrônicos,3500.0,3
+2025-01-25,Smartphone,Eletrônicos,2500.0,2
+2025-01-18,Sandália,Calçados,89.9,5
+2025-01-11,Mouse,Eletrônicos,99.9,3
+2025-01-08,Mouse,Eletrônicos,99.9,4
+2025-01-08,Camiseta,Acessórios,29.9,5
+2025-01-21,Mouse,Eletrônicos,99.9,5
+2025-01-23,Smartphone,Eletrônicos,2500.0,5
+2025-01-05,Camiseta,Acessórios,29.9,5
+2025-01-07,Sandália,Calçados,89.9,5
+2025-01-03,Smartphone,Eletrônicos,2500.0,3
+2025-01-14,Mouse,Eletrônicos,99.9,2
+2025-01-13,Jaqueta,Roupas,229.9,2
+2025-01-04,Camiseta,Acessórios,29.9,3
+2025-01-27,Camiseta,Acessórios,29.9,5
+2025-01-14,Camiseta,Acessórios,29.9,1
+2025-01-09,Notebook,Eletrônicos,3500.0,1
+2025-01-01,Calça Jeans,Roupas,139.9,4
+2025-01-13,Relógio,Acessórios,299.9,1
+2025-01-09,Sandália,Calçados,89.9,5
+2025-01-12,Calça Jeans,Roupas,139.9,3
+2025-01-29,Calça Jeans,Roupas,139.9,1
+2025-01-09,Notebook,Eletrônicos,3500.0,3
+2025-01-17,Relógio,Acessórios,299.9,3
+2025-01-16,Jaqueta,Roupas,229.9,3
+2025-01-07,Notebook,Eletrônicos,3500.0,3
+2025-01-27,Calça Jeans,Roupas,139.9,3
+2025-01-22,Jaqueta,Roupas,229.9,5
+2025-01-10,Sandália,Calçados,89.9,5
+2025-01-29,Smartphone,Eletrônicos,2500.0,4
+2025-01-31,Notebook,Eletrônicos,3500.0,5
+2025-01-04,Calça Jeans,Roupas,139.9,2
+2025-01-02,Calça Jeans,Roupas,139.9,4
+2025-01-20,Relógio,Acessórios,299.9,2
+2025-01-29,Calça Jeans,Roupas,139.9,5
+2025-01-04,Relógio,Acessórios,299.9,3
+2025-01-03,Calça Jeans,Roupas,139.9,5
+2025-01-30,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-31,Sandália,Calçados,89.9,4
+2025-01-08,Jaqueta,Roupas,229.9,1
+2025-01-17,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-29,Notebook,Eletrônicos,3500.0,1
+2025-01-13,Jaqueta,Roupas,229.9,2
+2025-01-01,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-18,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-21,Smartphone,Eletrônicos,2500.0,5
+2025-01-22,Tênis,Calçados,199.9,2
+2025-01-18,Calça Jeans,Roupas,139.9,2
+2025-01-01,Sandália,Calçados,89.9,4
+2025-01-15,Sandália,Calçados,89.9,2
+2025-01-22,Camiseta,Acessórios,29.9,4
+2025-01-01,Relógio,Acessórios,299.9,5
+2025-01-01,Mouse,Eletrônicos,99.9,2
+2025-01-28,Sandália,Calçados,89.9,2
+2025-01-10,Jaqueta,Roupas,229.9,3
+2025-01-31,Notebook,Eletrônicos,3500.0,3
+2025-01-18,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-01,Camiseta,Acessórios,29.9,3
+2025-01-25,Relógio,Acessórios,299.9,4
+2025-01-12,Notebook,Eletrônicos,3500.0,1
+2025-01-11,Fone de Ouvido,Eletrônicos,149.9,1
+2025-01-22,Sandália,Calçados,89.9,5
+2025-01-26,Calça Jeans,Roupas,139.9,5
+2025-01-19,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-31,Relógio,Acessórios,299.9,3
+2025-01-28,Tênis,Calçados,199.9,3
+2025-01-01,Camiseta,Acessórios,29.9,4
+2025-01-12,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-04,Mouse,Eletrônicos,99.9,3
+2025-01-24,Jaqueta,Roupas,229.9,2
+2025-01-07,Relógio,Acessórios,299.9,2
+2025-01-31,Relógio,Acessórios,299.9,4
+2025-01-26,Tênis,Calçados,199.9,4
+2025-01-16,Smartphone,Eletrônicos,2500.0,2
+2025-01-07,Notebook,Eletrônicos,3500.0,1
+2025-01-29,Sandália,Calçados,89.9,4
+2025-01-20,Sandália,Calçados,89.9,5
+2025-01-06,Camiseta,Acessórios,29.9,1
+2025-01-06,Sandália,Calçados,89.9,3
+2025-01-07,Sandália,Calçados,89.9,5
+2025-01-22,Sandália,Calçados,89.9,5
+2025-01-04,Calça Jeans,Roupas,139.9,2
+2025-01-31,Calça Jeans,Roupas,139.9,5
+2025-01-01,Camiseta,Acessórios,29.9,4
+2025-01-23,Relógio,Acessórios,299.9,5
+2025-01-08,Camiseta,Acessórios,29.9,3
+2025-01-12,Sandália,Calçados,89.9,1
+2025-01-11,Calça Jeans,Roupas,139.9,1
+2025-01-23,Sandália,Calçados,89.9,2
+2025-01-23,Camiseta,Acessórios,29.9,4
+2025-01-16,Notebook,Eletrônicos,3500.0,3
+2025-01-25,Notebook,Eletrônicos,3500.0,5
+2025-01-03,Camiseta,Acessórios,29.9,1
+2025-01-16,Smartphone,Eletrônicos,2500.0,1
+2025-01-04,Sandália,Calçados,89.9,2
+2025-01-05,Relógio,Acessórios,299.9,3
+2025-01-09,Smartphone,Eletrônicos,2500.0,4
+2025-01-19,Jaqueta,Roupas,229.9,1
+2025-01-09,Relógio,Acessórios,299.9,4
+2025-01-20,Fone de Ouvido,Eletrônicos,149.9,1
+2025-01-05,Camiseta,Acessórios,29.9,5
+2025-01-25,Tênis,Calçados,199.9,5
+2025-01-05,Smartphone,Eletrônicos,2500.0,3
+2025-01-15,Notebook,Eletrônicos,3500.0,3
+2025-01-10,Mouse,Eletrônicos,99.9,3
+2025-01-25,Jaqueta,Roupas,229.9,4
+2025-01-22,Mouse,Eletrônicos,99.9,4
+2025-01-14,Jaqueta,Roupas,229.9,4
+2025-01-27,Camiseta,Acessórios,29.9,3
+2025-01-25,Notebook,Eletrônicos,3500.0,4
+2025-01-01,Notebook,Eletrônicos,3500.0,3
+2025-01-25,Tênis,Calçados,199.9,2
+2025-01-22,Fone de Ouvido,Eletrônicos,149.9,1
+2025-01-24,Notebook,Eletrônicos,3500.0,4
+2025-01-19,Camiseta,Acessórios,29.9,3
+2025-01-18,Smartphone,Eletrônicos,2500.0,4
+2025-01-27,Notebook,Eletrônicos,3500.0,4
+2025-01-26,Notebook,Eletrônicos,3500.0,1
+2025-01-24,Relógio,Acessórios,299.9,5
+2025-01-31,Smartphone,Eletrônicos,2500.0,2
+2025-01-24,Sandália,Calçados,89.9,4
+2025-01-13,Tênis,Calçados,199.9,2
+2025-01-26,Mouse,Eletrônicos,99.9,1
+2025-01-13,Mouse,Eletrônicos,99.9,4
+2025-01-05,Calça Jeans,Roupas,139.9,2
+2025-01-08,Tênis,Calçados,199.9,1
+2025-01-23,Jaqueta,Roupas,229.9,4
+2025-01-07,Sandália,Calçados,89.9,2
+2025-01-24,Mouse,Eletrônicos,99.9,2
+2025-01-23,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-13,Camiseta,Acessórios,29.9,1
+2025-01-11,Relógio,Acessórios,299.9,2
+2025-01-10,Mouse,Eletrônicos,99.9,2
+2025-01-10,Calça Jeans,Roupas,139.9,4
+2025-01-30,Notebook,Eletrônicos,3500.0,2
+2025-01-03,Smartphone,Eletrônicos,2500.0,2
+2025-01-27,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-18,Relógio,Acessórios,299.9,1
+2025-01-15,Calça Jeans,Roupas,139.9,5
+2025-01-18,Calça Jeans,Roupas,139.9,1
+2025-01-27,Tênis,Calçados,199.9,3
+2025-01-04,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-25,Fone de Ouvido,Eletrônicos,149.9,1
+2025-01-13,Tênis,Calçados,199.9,5
+2025-01-12,Relógio,Acessórios,299.9,4
+2025-01-05,Camiseta,Acessórios,29.9,3
+2025-01-12,Notebook,Eletrônicos,3500.0,4
+2025-01-08,Notebook,Eletrônicos,3500.0,1
+2025-01-12,Mouse,Eletrônicos,99.9,4
+2025-01-09,Relógio,Acessórios,299.9,4
+2025-01-28,Relógio,Acessórios,299.9,3
+2025-01-20,Mouse,Eletrônicos,99.9,3
+2025-01-26,Relógio,Acessórios,299.9,1
+2025-01-31,Notebook,Eletrônicos,3500.0,2
+2025-01-26,Jaqueta,Roupas,229.9,3
+2025-01-27,Camiseta,Acessórios,29.9,2
+2025-01-23,Notebook,Eletrônicos,3500.0,5
+2025-01-10,Tênis,Calçados,199.9,3
+2025-01-04,Notebook,Eletrônicos,3500.0,3
+2025-01-11,Mouse,Eletrônicos,99.9,4
+2025-01-07,Notebook,Eletrônicos,3500.0,4
+2025-01-24,Mouse,Eletrônicos,99.9,3
+2025-01-04,Mouse,Eletrônicos,99.9,2
+2025-01-16,Mouse,Eletrônicos,99.9,4
+2025-01-04,Camiseta,Acessórios,29.9,2
+2025-01-29,Fone de Ouvido,Eletrônicos,149.9,5
+2025-01-01,Fone de Ouvido,Eletrônicos,149.9,1
+2025-01-21,Notebook,Eletrônicos,3500.0,3
+2025-01-31,Tênis,Calçados,199.9,2
+2025-01-23,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-11,Relógio,Acessórios,299.9,3
+2025-01-12,Calça Jeans,Roupas,139.9,4
+2025-01-03,Mouse,Eletrônicos,99.9,1
+2025-01-21,Smartphone,Eletrônicos,2500.0,3
+2025-01-20,Calça Jeans,Roupas,139.9,4
+2025-01-10,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-16,Jaqueta,Roupas,229.9,1
+2025-01-02,Tênis,Calçados,199.9,2
+2025-01-19,Relógio,Acessórios,299.9,3
+2025-01-14,Jaqueta,Roupas,229.9,3
+2025-01-17,Smartphone,Eletrônicos,2500.0,4
+2025-01-07,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-31,Sandália,Calçados,89.9,3
+2025-01-25,Relógio,Acessórios,299.9,5
+2025-01-30,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-20,Smartphone,Eletrônicos,2500.0,1
+2025-01-03,Mouse,Eletrônicos,99.9,2
+2025-01-23,Relógio,Acessórios,299.9,4
+2025-01-31,Sandália,Calçados,89.9,5
+2025-01-14,Tênis,Calçados,199.9,2
+2025-01-27,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-17,Sandália,Calçados,89.9,2
+2025-01-21,Camiseta,Acessórios,29.9,3
+2025-01-23,Sandália,Calçados,89.9,4
+2025-01-16,Mouse,Eletrônicos,99.9,1
+2025-01-26,Camiseta,Acessórios,29.9,2
+2025-01-24,Notebook,Eletrônicos,3500.0,1
+2025-01-09,Jaqueta,Roupas,229.9,5
+2025-01-23,Fone de Ouvido,Eletrônicos,149.9,5
+2025-01-18,Smartphone,Eletrônicos,2500.0,3
+2025-01-01,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-31,Notebook,Eletrônicos,3500.0,4
+2025-01-01,Sandália,Calçados,89.9,3
+2025-01-09,Relógio,Acessórios,299.9,5
+2025-01-03,Notebook,Eletrônicos,3500.0,1
+2025-01-25,Sandália,Calçados,89.9,4
+2025-01-17,Tênis,Calçados,199.9,4
+2025-01-16,Mouse,Eletrônicos,99.9,1
+2025-01-07,Notebook,Eletrônicos,3500.0,2
+2025-01-01,Relógio,Acessórios,299.9,4
+2025-01-04,Tênis,Calçados,199.9,1
+2025-01-31,Notebook,Eletrônicos,3500.0,4
+2025-01-24,Smartphone,Eletrônicos,2500.0,3
+2025-01-04,Smartphone,Eletrônicos,2500.0,4
+2025-01-12,Fone de Ouvido,Eletrônicos,149.9,5
+2025-01-08,Jaqueta,Roupas,229.9,3
+2025-01-10,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-06,Jaqueta,Roupas,229.9,2
+2025-01-04,Relógio,Acessórios,299.9,1
+2025-01-18,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-01,Mouse,Eletrônicos,99.9,5
+2025-01-31,Notebook,Eletrônicos,3500.0,4
+2025-01-05,Calça Jeans,Roupas,139.9,5
+2025-01-07,Smartphone,Eletrônicos,2500.0,2
+2025-01-22,Sandália,Calçados,89.9,2
+2025-01-21,Mouse,Eletrônicos,99.9,4
+2025-01-04,Relógio,Acessórios,299.9,3
+2025-01-31,Tênis,Calçados,199.9,1
+2025-01-01,Calça Jeans,Roupas,139.9,5
+2025-01-20,Calça Jeans,Roupas,139.9,2
+2025-01-01,Calça Jeans,Roupas,139.9,2
+2025-01-06,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-01,Tênis,Calçados,199.9,3
+2025-01-04,Notebook,Eletrônicos,3500.0,5
+2025-01-16,Jaqueta,Roupas,229.9,1
+2025-01-29,Jaqueta,Roupas,229.9,4
+2025-01-19,Jaqueta,Roupas,229.9,1
+2025-01-05,Sandália,Calçados,89.9,5
+2025-01-05,Jaqueta,Roupas,229.9,5
+2025-01-16,Jaqueta,Roupas,229.9,5
+2025-01-24,Notebook,Eletrônicos,3500.0,4
+2025-01-12,Sandália,Calçados,89.9,5
+2025-01-08,Relógio,Acessórios,299.9,3
+2025-01-21,Mouse,Eletrônicos,99.9,5
+2025-01-11,Calça Jeans,Roupas,139.9,3
+2025-01-30,Mouse,Eletrônicos,99.9,5
+2025-01-16,Mouse,Eletrônicos,99.9,3
+2025-01-21,Jaqueta,Roupas,229.9,4
+2025-01-29,Tênis,Calçados,199.9,3
+2025-01-19,Relógio,Acessórios,299.9,2
+2025-01-04,Sandália,Calçados,89.9,1
+2025-01-07,Smartphone,Eletrônicos,2500.0,2
+2025-01-17,Tênis,Calçados,199.9,5
+2025-01-23,Tênis,Calçados,199.9,5
+2025-01-07,Mouse,Eletrônicos,99.9,1
+2025-01-31,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-26,Relógio,Acessórios,299.9,5
+2025-01-18,Calça Jeans,Roupas,139.9,1
+2025-01-05,Jaqueta,Roupas,229.9,5
+2025-01-29,Smartphone,Eletrônicos,2500.0,1
+2025-01-24,Smartphone,Eletrônicos,2500.0,5
+2025-01-18,Relógio,Acessórios,299.9,1
+2025-01-21,Tênis,Calçados,199.9,2
+2025-01-30,Smartphone,Eletrônicos,2500.0,3
+2025-01-24,Notebook,Eletrônicos,3500.0,3
+2025-01-23,Tênis,Calçados,199.9,2
+2025-01-26,Sandália,Calçados,89.9,2
+2025-01-22,Calça Jeans,Roupas,139.9,1
+2025-01-27,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-28,Calça Jeans,Roupas,139.9,3
+2025-01-24,Tênis,Calçados,199.9,1
+2025-01-24,Camiseta,Acessórios,29.9,1
+2025-01-15,Jaqueta,Roupas,229.9,3
+2025-01-22,Smartphone,Eletrônicos,2500.0,4
+2025-01-03,Jaqueta,Roupas,229.9,1
+2025-01-28,Sandália,Calçados,89.9,4
+2025-01-18,Fone de Ouvido,Eletrônicos,149.9,5
+2025-01-14,Tênis,Calçados,199.9,5
+2025-01-11,Relógio,Acessórios,299.9,2
+2025-01-27,Tênis,Calçados,199.9,4
+2025-01-25,Mouse,Eletrônicos,99.9,1
+2025-01-12,Tênis,Calçados,199.9,5
+2025-01-14,Tênis,Calçados,199.9,2
+2025-01-16,Tênis,Calçados,199.9,3
+2025-01-15,Mouse,Eletrônicos,99.9,1
+2025-01-04,Jaqueta,Roupas,229.9,2
+2025-01-02,Sandália,Calçados,89.9,4
+2025-01-12,Calça Jeans,Roupas,139.9,3
+2025-01-08,Camiseta,Acessórios,29.9,1
+2025-01-26,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-18,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-17,Relógio,Acessórios,299.9,5
+2025-01-20,Mouse,Eletrônicos,99.9,3
+2025-01-05,Relógio,Acessórios,299.9,2
+2025-01-02,Mouse,Eletrônicos,99.9,2
+2025-01-13,Smartphone,Eletrônicos,2500.0,3
+2025-01-17,Mouse,Eletrônicos,99.9,1
+2025-01-28,Sandália,Calçados,89.9,3
+2025-01-04,Calça Jeans,Roupas,139.9,3
+2025-01-03,Relógio,Acessórios,299.9,3
+2025-01-30,Relógio,Acessórios,299.9,4
+2025-01-28,Sandália,Calçados,89.9,2
+2025-01-06,Fone de Ouvido,Eletrônicos,149.9,1
+2025-01-16,Relógio,Acessórios,299.9,2
+2025-01-31,Tênis,Calçados,199.9,2
+2025-01-06,Sandália,Calçados,89.9,3
+2025-01-23,Notebook,Eletrônicos,3500.0,4
+2025-01-17,Camiseta,Acessórios,29.9,3
+2025-01-21,Sandália,Calçados,89.9,3
+2025-01-01,Tênis,Calçados,199.9,5
+2025-01-09,Jaqueta,Roupas,229.9,4
+2025-01-25,Smartphone,Eletrônicos,2500.0,5
+2025-01-13,Relógio,Acessórios,299.9,4
+2025-01-02,Jaqueta,Roupas,229.9,3
+2025-01-22,Relógio,Acessórios,299.9,3
+2025-01-25,Relógio,Acessórios,299.9,1
+2025-01-26,Calça Jeans,Roupas,139.9,3
+2025-01-16,Sandália,Calçados,89.9,4
+2025-01-29,Tênis,Calçados,199.9,5
+2025-01-27,Calça Jeans,Roupas,139.9,5
+2025-01-29,Mouse,Eletrônicos,99.9,2
+2025-01-20,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-10,Notebook,Eletrônicos,3500.0,2
+2025-01-09,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-14,Sandália,Calçados,89.9,5
+2025-01-03,Notebook,Eletrônicos,3500.0,1
+2025-01-25,Camiseta,Acessórios,29.9,1
+2025-01-20,Smartphone,Eletrônicos,2500.0,4
+2025-01-10,Relógio,Acessórios,299.9,3
+2025-01-03,Notebook,Eletrônicos,3500.0,3
+2025-01-23,Camiseta,Acessórios,29.9,4
+2025-01-14,Calça Jeans,Roupas,139.9,2
+2025-01-05,Jaqueta,Roupas,229.9,5
+2025-01-30,Camiseta,Acessórios,29.9,3
+2025-01-01,Tênis,Calçados,199.9,5
+2025-01-10,Tênis,Calçados,199.9,5
+2025-01-17,Notebook,Eletrônicos,3500.0,5
+2025-01-15,Relógio,Acessórios,299.9,3
+2025-01-06,Tênis,Calçados,199.9,1
+2025-01-27,Calça Jeans,Roupas,139.9,3
+2025-01-11,Relógio,Acessórios,299.9,4
+2025-01-05,Mouse,Eletrônicos,99.9,4
+2025-01-07,Notebook,Eletrônicos,3500.0,4
+2025-01-07,Relógio,Acessórios,299.9,1
+2025-01-20,Calça Jeans,Roupas,139.9,4
+2025-01-29,Notebook,Eletrônicos,3500.0,1
+2025-01-10,Mouse,Eletrônicos,99.9,3
+2025-01-26,Camiseta,Acessórios,29.9,3
+2025-01-18,Sandália,Calçados,89.9,1
+2025-01-21,Mouse,Eletrônicos,99.9,5
+2025-01-09,Calça Jeans,Roupas,139.9,3
+2025-01-12,Tênis,Calçados,199.9,5
+2025-01-24,Tênis,Calçados,199.9,1
+2025-01-10,Sandália,Calçados,89.9,4
+2025-01-31,Camiseta,Acessórios,29.9,1
+2025-01-31,Calça Jeans,Roupas,139.9,3
+2025-01-08,Camiseta,Acessórios,29.9,3
+2025-01-26,Notebook,Eletrônicos,3500.0,2
+2025-01-30,Calça Jeans,Roupas,139.9,1
+2025-01-09,Sandália,Calçados,89.9,2
+2025-01-03,Smartphone,Eletrônicos,2500.0,1
+2025-01-06,Smartphone,Eletrônicos,2500.0,2
+2025-01-26,Notebook,Eletrônicos,3500.0,4
+2025-01-13,Jaqueta,Roupas,229.9,3
+2025-01-15,Sandália,Calçados,89.9,3
+2025-01-16,Fone de Ouvido,Eletrônicos,149.9,5
+2025-01-08,Mouse,Eletrônicos,99.9,2
+2025-01-25,Camiseta,Acessórios,29.9,2
+2025-01-06,Camiseta,Acessórios,29.9,4
+2025-01-13,Mouse,Eletrônicos,99.9,3
+2025-01-29,Camiseta,Acessórios,29.9,4
+2025-01-04,Camiseta,Acessórios,29.9,3
+2025-01-16,Relógio,Acessórios,299.9,5
+2025-01-30,Relógio,Acessórios,299.9,1
+2025-01-02,Notebook,Eletrônicos,3500.0,2
+2025-01-09,Tênis,Calçados,199.9,2
+2025-01-10,Sandália,Calçados,89.9,3
+2025-01-27,Camiseta,Acessórios,29.9,4
+2025-01-24,Tênis,Calçados,199.9,3
+2025-01-30,Smartphone,Eletrônicos,2500.0,2
+2025-01-31,Tênis,Calçados,199.9,2
+2025-01-16,Camiseta,Acessórios,29.9,3
+2025-01-20,Tênis,Calçados,199.9,2
+2025-01-06,Fone de Ouvido,Eletrônicos,149.9,1
+2025-01-03,Calça Jeans,Roupas,139.9,5
+2025-01-01,Calça Jeans,Roupas,139.9,3
+2025-01-09,Calça Jeans,Roupas,139.9,3
+2025-01-27,Jaqueta,Roupas,229.9,3
+2025-01-09,Sandália,Calçados,89.9,2
+2025-01-03,Jaqueta,Roupas,229.9,5
+2025-01-05,Jaqueta,Roupas,229.9,1
+2025-01-08,Sandália,Calçados,89.9,5
+2025-01-06,Mouse,Eletrônicos,99.9,1
+2025-01-11,Calça Jeans,Roupas,139.9,4
+2025-01-18,Relógio,Acessórios,299.9,3
+2025-01-18,Tênis,Calçados,199.9,1
+2025-01-08,Notebook,Eletrônicos,3500.0,3
+2025-01-22,Notebook,Eletrônicos,3500.0,1
+2025-01-28,Sandália,Calçados,89.9,1
+2025-01-01,Smartphone,Eletrônicos,2500.0,3
+2025-01-28,Relógio,Acessórios,299.9,2
+2025-01-24,Sandália,Calçados,89.9,2
+2025-01-15,Jaqueta,Roupas,229.9,5
+2025-01-29,Relógio,Acessórios,299.9,1
+2025-01-27,Tênis,Calçados,199.9,1
+2025-01-21,Jaqueta,Roupas,229.9,1
+2025-01-13,Sandália,Calçados,89.9,1
+2025-01-09,Relógio,Acessórios,299.9,5
+2025-01-21,Camiseta,Acessórios,29.9,3
+2025-01-20,Calça Jeans,Roupas,139.9,4
+2025-01-09,Jaqueta,Roupas,229.9,3
+2025-01-24,Notebook,Eletrônicos,3500.0,5
+2025-01-03,Calça Jeans,Roupas,139.9,3
+2025-01-02,Calça Jeans,Roupas,139.9,3
+2025-01-15,Camiseta,Acessórios,29.9,3
+2025-01-09,Smartphone,Eletrônicos,2500.0,3
+2025-01-27,Smartphone,Eletrônicos,2500.0,2
+2025-01-25,Smartphone,Eletrônicos,2500.0,1
+2025-01-27,Sandália,Calçados,89.9,1
+2025-01-03,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-18,Sandália,Calçados,89.9,2
+2025-01-14,Sandália,Calçados,89.9,1
+2025-01-14,Smartphone,Eletrônicos,2500.0,5
+2025-01-17,Mouse,Eletrônicos,99.9,5
+2025-01-31,Fone de Ouvido,Eletrônicos,149.9,5
+2025-01-10,Tênis,Calçados,199.9,3
+2025-01-27,Camiseta,Acessórios,29.9,4
+2025-01-20,Sandália,Calçados,89.9,4
+2025-01-28,Smartphone,Eletrônicos,2500.0,4
+2025-01-03,Sandália,Calçados,89.9,1
+2025-01-07,Notebook,Eletrônicos,3500.0,2
+2025-01-14,Smartphone,Eletrônicos,2500.0,2
+2025-01-15,Jaqueta,Roupas,229.9,5
+2025-01-24,Smartphone,Eletrônicos,2500.0,2
+2025-01-01,Notebook,Eletrônicos,3500.0,1
+2025-01-05,Calça Jeans,Roupas,139.9,2
+2025-01-12,Relógio,Acessórios,299.9,3
+2025-01-31,Sandália,Calçados,89.9,4
+2025-01-23,Fone de Ouvido,Eletrônicos,149.9,5
+2025-01-07,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-31,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-23,Tênis,Calçados,199.9,1
+2025-01-15,Tênis,Calçados,199.9,4
+2025-01-21,Camiseta,Acessórios,29.9,4
+2025-01-13,Sandália,Calçados,89.9,2
+2025-01-31,Notebook,Eletrônicos,3500.0,5
+2025-01-09,Fone de Ouvido,Eletrônicos,149.9,1
+2025-01-04,Calça Jeans,Roupas,139.9,2
+2025-01-01,Mouse,Eletrônicos,99.9,1
+2025-01-17,Camiseta,Acessórios,29.9,5
+2025-01-16,Sandália,Calçados,89.9,2
+2025-01-15,Tênis,Calçados,199.9,5
+2025-01-30,Smartphone,Eletrônicos,2500.0,5
+2025-01-20,Smartphone,Eletrônicos,2500.0,2
+2025-01-01,Smartphone,Eletrônicos,2500.0,1
+2025-01-26,Mouse,Eletrônicos,99.9,1
+2025-01-03,Notebook,Eletrônicos,3500.0,4
+2025-01-25,Calça Jeans,Roupas,139.9,2
+2025-01-20,Relógio,Acessórios,299.9,4
+2025-01-20,Jaqueta,Roupas,229.9,4
+2025-01-15,Sandália,Calçados,89.9,2
+2025-01-11,Smartphone,Eletrônicos,2500.0,1
+2025-01-12,Jaqueta,Roupas,229.9,4
+2025-01-10,Relógio,Acessórios,299.9,3
+2025-01-05,Jaqueta,Roupas,229.9,5
+2025-01-10,Tênis,Calçados,199.9,4
+2025-01-20,Tênis,Calçados,199.9,1
+2025-01-09,Camiseta,Acessórios,29.9,5
+2025-01-18,Smartphone,Eletrônicos,2500.0,2
+2025-01-17,Mouse,Eletrônicos,99.9,5
+2025-01-08,Jaqueta,Roupas,229.9,3
+2025-01-25,Smartphone,Eletrônicos,2500.0,1
+2025-01-30,Relógio,Acessórios,299.9,3
+2025-01-24,Fone de Ouvido,Eletrônicos,149.9,1
+2025-01-26,Fone de Ouvido,Eletrônicos,149.9,1
+2025-01-23,Relógio,Acessórios,299.9,5
+2025-01-27,Jaqueta,Roupas,229.9,1
+2025-01-06,Calça Jeans,Roupas,139.9,4
+2025-01-12,Sandália,Calçados,89.9,3
+2025-01-12,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-11,Tênis,Calçados,199.9,1
+2025-01-11,Mouse,Eletrônicos,99.9,5
+2025-01-11,Smartphone,Eletrônicos,2500.0,5
+2025-01-21,Smartphone,Eletrônicos,2500.0,3
+2025-01-12,Tênis,Calçados,199.9,1
+2025-01-24,Tênis,Calçados,199.9,4
+2025-01-01,Sandália,Calçados,89.9,1
+2025-01-05,Sandália,Calçados,89.9,4
+2025-01-21,Notebook,Eletrônicos,3500.0,2
+2025-01-12,Fone de Ouvido,Eletrônicos,149.9,5
+2025-01-23,Smartphone,Eletrônicos,2500.0,1
+2025-01-11,Jaqueta,Roupas,229.9,2
+2025-01-12,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-29,Calça Jeans,Roupas,139.9,5
+2025-01-27,Jaqueta,Roupas,229.9,4
+2025-01-27,Calça Jeans,Roupas,139.9,3
+2025-01-28,Smartphone,Eletrônicos,2500.0,2
+2025-01-06,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-20,Smartphone,Eletrônicos,2500.0,3
+2025-01-11,Calça Jeans,Roupas,139.9,2
+2025-01-26,Tênis,Calçados,199.9,3
+2025-01-25,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-10,Relógio,Acessórios,299.9,5
+2025-01-11,Tênis,Calçados,199.9,4
+2025-01-14,Smartphone,Eletrônicos,2500.0,1
+2025-01-25,Notebook,Eletrônicos,3500.0,4
+2025-01-19,Smartphone,Eletrônicos,2500.0,3
+2025-01-31,Jaqueta,Roupas,229.9,1
+2025-01-25,Tênis,Calçados,199.9,4
+2025-01-06,Notebook,Eletrônicos,3500.0,4
+2025-01-27,Smartphone,Eletrônicos,2500.0,4
+2025-01-29,Smartphone,Eletrônicos,2500.0,2
+2025-01-12,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-17,Jaqueta,Roupas,229.9,2
+2025-01-29,Tênis,Calçados,199.9,4
+2025-01-01,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-02,Mouse,Eletrônicos,99.9,1
+2025-01-17,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-19,Smartphone,Eletrônicos,2500.0,3
+2025-01-21,Jaqueta,Roupas,229.9,1
+2025-01-23,Jaqueta,Roupas,229.9,5
+2025-01-22,Smartphone,Eletrônicos,2500.0,5
+2025-01-05,Smartphone,Eletrônicos,2500.0,5
+2025-01-29,Mouse,Eletrônicos,99.9,2
+2025-01-05,Mouse,Eletrônicos,99.9,2
+2025-01-12,Sandália,Calçados,89.9,5
+2025-01-20,Relógio,Acessórios,299.9,3
+2025-01-22,Smartphone,Eletrônicos,2500.0,4
+2025-01-23,Smartphone,Eletrônicos,2500.0,2
+2025-01-29,Fone de Ouvido,Eletrônicos,149.9,5
+2025-01-23,Tênis,Calçados,199.9,2
+2025-01-09,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-11,Smartphone,Eletrônicos,2500.0,5
+2025-01-25,Smartphone,Eletrônicos,2500.0,1
+2025-01-22,Jaqueta,Roupas,229.9,5
+2025-01-21,Mouse,Eletrônicos,99.9,1
+2025-01-25,Camiseta,Acessórios,29.9,4
+2025-01-22,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-17,Sandália,Calçados,89.9,5
+2025-01-11,Smartphone,Eletrônicos,2500.0,2
+2025-01-31,Tênis,Calçados,199.9,5
+2025-01-02,Relógio,Acessórios,299.9,1
+2025-01-31,Notebook,Eletrônicos,3500.0,2
+2025-01-25,Tênis,Calçados,199.9,2
+2025-01-26,Tênis,Calçados,199.9,3
+2025-01-13,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-08,Smartphone,Eletrônicos,2500.0,5
+2025-01-20,Calça Jeans,Roupas,139.9,2
+2025-01-30,Smartphone,Eletrônicos,2500.0,1
+2025-01-23,Notebook,Eletrônicos,3500.0,4
+2025-01-04,Smartphone,Eletrônicos,2500.0,2
+2025-01-13,Relógio,Acessórios,299.9,4
+2025-01-19,Tênis,Calçados,199.9,2
+2025-01-11,Camiseta,Acessórios,29.9,2
+2025-01-04,Jaqueta,Roupas,229.9,2
+2025-01-19,Sandália,Calçados,89.9,5
+2025-01-31,Relógio,Acessórios,299.9,4
+2025-01-27,Tênis,Calçados,199.9,1
+2025-01-02,Mouse,Eletrônicos,99.9,5
+2025-01-17,Sandália,Calçados,89.9,4
+2025-01-08,Sandália,Calçados,89.9,5
+2025-01-03,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-14,Tênis,Calçados,199.9,5
+2025-01-01,Relógio,Acessórios,299.9,2
+2025-01-25,Mouse,Eletrônicos,99.9,2
+2025-01-11,Mouse,Eletrônicos,99.9,5
+2025-01-28,Camiseta,Acessórios,29.9,1
+2025-01-04,Notebook,Eletrônicos,3500.0,5
+2025-01-19,Notebook,Eletrônicos,3500.0,5
+2025-01-06,Sandália,Calçados,89.9,2
+2025-01-03,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-27,Camiseta,Acessórios,29.9,1
+2025-01-19,Camiseta,Acessórios,29.9,1
+2025-01-10,Camiseta,Acessórios,29.9,4
+2025-01-28,Relógio,Acessórios,299.9,3
+2025-01-12,Sandália,Calçados,89.9,5
+2025-01-12,Mouse,Eletrônicos,99.9,2
+2025-01-24,Notebook,Eletrônicos,3500.0,5
+2025-01-11,Jaqueta,Roupas,229.9,3
+2025-01-28,Tênis,Calçados,199.9,5
+2025-01-20,Fone de Ouvido,Eletrônicos,149.9,1
+2025-01-06,Sandália,Calçados,89.9,5
+2025-01-10,Relógio,Acessórios,299.9,5
+2025-01-06,Sandália,Calçados,89.9,5
+2025-01-19,Sandália,Calçados,89.9,5
+2025-01-24,Notebook,Eletrônicos,3500.0,3
+2025-01-04,Notebook,Eletrônicos,3500.0,4
+2025-01-29,Smartphone,Eletrônicos,2500.0,5
+2025-01-18,Calça Jeans,Roupas,139.9,3
+2025-01-23,Calça Jeans,Roupas,139.9,1
+2025-01-27,Smartphone,Eletrônicos,2500.0,3
+2025-01-29,Tênis,Calçados,199.9,2
+2025-01-17,Mouse,Eletrônicos,99.9,1
+2025-01-15,Mouse,Eletrônicos,99.9,2
+2025-01-10,Mouse,Eletrônicos,99.9,3
+2025-01-14,Jaqueta,Roupas,229.9,1
+2025-01-29,Relógio,Acessórios,299.9,4
+2025-01-22,Mouse,Eletrônicos,99.9,5
+2025-01-01,Calça Jeans,Roupas,139.9,2
+2025-01-20,Sandália,Calçados,89.9,3
+2025-01-28,Tênis,Calçados,199.9,4
+2025-01-13,Smartphone,Eletrônicos,2500.0,1
+2025-01-14,Sandália,Calçados,89.9,1
+2025-01-12,Sandália,Calçados,89.9,4
+2025-01-13,Fone de Ouvido,Eletrônicos,149.9,1
+2025-01-20,Mouse,Eletrônicos,99.9,4
+2025-01-30,Mouse,Eletrônicos,99.9,5
+2025-01-11,Jaqueta,Roupas,229.9,3
+2025-01-06,Sandália,Calçados,89.9,2
+2025-01-24,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-13,Calça Jeans,Roupas,139.9,2
+2025-01-26,Tênis,Calçados,199.9,2
+2025-01-30,Jaqueta,Roupas,229.9,2
+2025-01-07,Smartphone,Eletrônicos,2500.0,1
+2025-01-06,Sandália,Calçados,89.9,3
+2025-01-06,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-24,Notebook,Eletrônicos,3500.0,3
+2025-01-10,Sandália,Calçados,89.9,1
+2025-01-01,Notebook,Eletrônicos,3500.0,1
+2025-01-30,Smartphone,Eletrônicos,2500.0,4
+2025-01-22,Calça Jeans,Roupas,139.9,4
+2025-01-16,Tênis,Calçados,199.9,5
+2025-01-15,Smartphone,Eletrônicos,2500.0,2
+2025-01-21,Tênis,Calçados,199.9,3
+2025-01-24,Smartphone,Eletrônicos,2500.0,2
+2025-01-10,Notebook,Eletrônicos,3500.0,2
+2025-01-16,Tênis,Calçados,199.9,3
+2025-01-05,Sandália,Calçados,89.9,2
+2025-01-09,Jaqueta,Roupas,229.9,1
+2025-01-04,Sandália,Calçados,89.9,2
+2025-01-07,Notebook,Eletrônicos,3500.0,2
+2025-01-02,Fone de Ouvido,Eletrônicos,149.9,5
+2025-01-30,Camiseta,Acessórios,29.9,2
+2025-01-11,Mouse,Eletrônicos,99.9,1
+2025-01-07,Smartphone,Eletrônicos,2500.0,5
+2025-01-17,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-15,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-03,Smartphone,Eletrônicos,2500.0,1
+2025-01-09,Relógio,Acessórios,299.9,1
+2025-01-23,Mouse,Eletrônicos,99.9,1
+2025-01-15,Camiseta,Acessórios,29.9,1
+2025-01-07,Relógio,Acessórios,299.9,3
+2025-01-07,Mouse,Eletrônicos,99.9,4
+2025-01-20,Notebook,Eletrônicos,3500.0,1
+2025-01-13,Tênis,Calçados,199.9,5
+2025-01-10,Mouse,Eletrônicos,99.9,5
+2025-01-31,Sandália,Calçados,89.9,2
+2025-01-08,Notebook,Eletrônicos,3500.0,1
+2025-01-27,Calça Jeans,Roupas,139.9,5
+2025-01-22,Smartphone,Eletrônicos,2500.0,1
+2025-01-28,Relógio,Acessórios,299.9,1
+2025-01-18,Calça Jeans,Roupas,139.9,2
+2025-01-20,Camiseta,Acessórios,29.9,2
+2025-01-07,Sandália,Calçados,89.9,1
+2025-01-06,Tênis,Calçados,199.9,2
+2025-01-18,Calça Jeans,Roupas,139.9,3
+2025-01-21,Camiseta,Acessórios,29.9,3
+2025-01-07,Smartphone,Eletrônicos,2500.0,1
+2025-01-29,Notebook,Eletrônicos,3500.0,4
+2025-01-10,Camiseta,Acessórios,29.9,2
+2025-01-09,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-13,Calça Jeans,Roupas,139.9,4
+2025-01-30,Notebook,Eletrônicos,3500.0,1
+2025-01-08,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-11,Notebook,Eletrônicos,3500.0,3
+2025-01-04,Relógio,Acessórios,299.9,4
+2025-01-25,Calça Jeans,Roupas,139.9,3
+2025-01-16,Smartphone,Eletrônicos,2500.0,3
+2025-01-24,Notebook,Eletrônicos,3500.0,3
+2025-01-17,Sandália,Calçados,89.9,3
+2025-01-23,Tênis,Calçados,199.9,5
+2025-01-10,Camiseta,Acessórios,29.9,1
+2025-01-04,Sandália,Calçados,89.9,5
+2025-01-18,Notebook,Eletrônicos,3500.0,1
+2025-01-17,Mouse,Eletrônicos,99.9,3
+2025-01-19,Jaqueta,Roupas,229.9,5
+2025-01-25,Sandália,Calçados,89.9,4
+2025-01-09,Sandália,Calçados,89.9,2
+2025-01-10,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-15,Relógio,Acessórios,299.9,5
+2025-01-29,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-01,Smartphone,Eletrônicos,2500.0,2
+2025-01-01,Notebook,Eletrônicos,3500.0,2
+2025-01-27,Relógio,Acessórios,299.9,5
+2025-01-15,Calça Jeans,Roupas,139.9,1
+2025-01-16,Sandália,Calçados,89.9,5
+2025-01-22,Relógio,Acessórios,299.9,2
+2025-01-08,Jaqueta,Roupas,229.9,3
+2025-01-06,Calça Jeans,Roupas,139.9,2
+2025-01-07,Relógio,Acessórios,299.9,5
+2025-01-16,Jaqueta,Roupas,229.9,3
+2025-01-18,Notebook,Eletrônicos,3500.0,2
+2025-01-21,Fone de Ouvido,Eletrônicos,149.9,5
+2025-01-22,Jaqueta,Roupas,229.9,2
+2025-01-08,Smartphone,Eletrônicos,2500.0,4
+2025-01-05,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-12,Mouse,Eletrônicos,99.9,4
+2025-01-16,Tênis,Calçados,199.9,1
+2025-01-22,Relógio,Acessórios,299.9,3
+2025-01-23,Calça Jeans,Roupas,139.9,2
+2025-01-31,Tênis,Calçados,199.9,4
+2025-01-03,Calça Jeans,Roupas,139.9,4
+2025-01-05,Calça Jeans,Roupas,139.9,4
+2025-01-17,Relógio,Acessórios,299.9,3
+2025-01-29,Smartphone,Eletrônicos,2500.0,2
+2025-01-27,Jaqueta,Roupas,229.9,5
+2025-01-18,Relógio,Acessórios,299.9,4
+2025-01-13,Relógio,Acessórios,299.9,5
+2025-01-22,Mouse,Eletrônicos,99.9,3
+2025-01-30,Sandália,Calçados,89.9,2
+2025-01-20,Relógio,Acessórios,299.9,3
+2025-01-18,Smartphone,Eletrônicos,2500.0,4
+2025-01-14,Relógio,Acessórios,299.9,4
+2025-01-27,Notebook,Eletrônicos,3500.0,2
+2025-01-19,Mouse,Eletrônicos,99.9,4
+2025-01-08,Jaqueta,Roupas,229.9,2
+2025-01-08,Sandália,Calçados,89.9,5
+2025-01-31,Calça Jeans,Roupas,139.9,4
+2025-01-28,Fone de Ouvido,Eletrônicos,149.9,5
+2025-01-08,Calça Jeans,Roupas,139.9,5
+2025-01-18,Smartphone,Eletrônicos,2500.0,4
+2025-01-28,Smartphone,Eletrônicos,2500.0,3
+2025-01-11,Notebook,Eletrônicos,3500.0,4
+2025-01-08,Calça Jeans,Roupas,139.9,2
+2025-01-10,Relógio,Acessórios,299.9,5
+2025-01-24,Relógio,Acessórios,299.9,2
+2025-01-12,Sandália,Calçados,89.9,5
+2025-01-29,Fone de Ouvido,Eletrônicos,149.9,1
+2025-01-03,Notebook,Eletrônicos,3500.0,1
+2025-01-15,Sandália,Calçados,89.9,1
+2025-01-17,Smartphone,Eletrônicos,2500.0,3
+2025-01-17,Jaqueta,Roupas,229.9,5
+2025-01-19,Calça Jeans,Roupas,139.9,3
+2025-01-15,Calça Jeans,Roupas,139.9,4
+2025-01-01,Tênis,Calçados,199.9,2
+2025-01-29,Mouse,Eletrônicos,99.9,4
+2025-01-26,Smartphone,Eletrônicos,2500.0,4
+2025-01-09,Calça Jeans,Roupas,139.9,5
+2025-01-13,Sandália,Calçados,89.9,1
+2025-01-19,Mouse,Eletrônicos,99.9,1
+2025-01-16,Jaqueta,Roupas,229.9,1
+2025-01-03,Notebook,Eletrônicos,3500.0,3
+2025-01-31,Jaqueta,Roupas,229.9,4
+2025-01-22,Notebook,Eletrônicos,3500.0,5
+2025-01-28,Smartphone,Eletrônicos,2500.0,3
+2025-01-26,Smartphone,Eletrônicos,2500.0,5
+2025-01-28,Jaqueta,Roupas,229.9,1
+2025-01-31,Jaqueta,Roupas,229.9,4
+2025-01-13,Calça Jeans,Roupas,139.9,2
+2025-01-19,Sandália,Calçados,89.9,5
+2025-01-09,Notebook,Eletrônicos,3500.0,2
+2025-01-12,Tênis,Calçados,199.9,5
+2025-01-18,Smartphone,Eletrônicos,2500.0,2
+2025-01-25,Camiseta,Acessórios,29.9,2
+2025-01-28,Calça Jeans,Roupas,139.9,2
+2025-01-12,Notebook,Eletrônicos,3500.0,3
+2025-01-09,Sandália,Calçados,89.9,1
+2025-01-05,Calça Jeans,Roupas,139.9,5
+2025-01-22,Camiseta,Acessórios,29.9,1
+2025-01-09,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-28,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-14,Jaqueta,Roupas,229.9,3
+2025-01-15,Relógio,Acessórios,299.9,3
+2025-01-23,Relógio,Acessórios,299.9,5
+2025-01-16,Calça Jeans,Roupas,139.9,1
+2025-01-19,Smartphone,Eletrônicos,2500.0,3
+2025-01-02,Mouse,Eletrônicos,99.9,1
+2025-01-02,Sandália,Calçados,89.9,4
+2025-01-05,Smartphone,Eletrônicos,2500.0,2
+2025-01-29,Camiseta,Acessórios,29.9,4
+2025-01-10,Smartphone,Eletrônicos,2500.0,2
+2025-01-29,Relógio,Acessórios,299.9,1
+2025-01-24,Sandália,Calçados,89.9,4
+2025-01-13,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-22,Calça Jeans,Roupas,139.9,1
+2025-01-14,Smartphone,Eletrônicos,2500.0,2
+2025-01-10,Smartphone,Eletrônicos,2500.0,5
+2025-01-20,Fone de Ouvido,Eletrônicos,149.9,1
+2025-01-01,Smartphone,Eletrônicos,2500.0,2
+2025-01-23,Jaqueta,Roupas,229.9,3
+2025-01-05,Jaqueta,Roupas,229.9,2
+2025-01-20,Tênis,Calçados,199.9,4
+2025-01-24,Notebook,Eletrônicos,3500.0,3
+2025-01-11,Tênis,Calçados,199.9,1
+2025-01-22,Mouse,Eletrônicos,99.9,5
+2025-01-29,Sandália,Calçados,89.9,5
+2025-01-13,Tênis,Calçados,199.9,4
+2025-01-12,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-08,Notebook,Eletrônicos,3500.0,5
+2025-01-29,Relógio,Acessórios,299.9,3
+2025-01-20,Relógio,Acessórios,299.9,3
+2025-01-13,Relógio,Acessórios,299.9,5
+2025-01-14,Sandália,Calçados,89.9,3
+2025-01-19,Jaqueta,Roupas,229.9,4
+2025-01-31,Camiseta,Acessórios,29.9,1
+2025-01-14,Fone de Ouvido,Eletrônicos,149.9,5
+2025-01-22,Smartphone,Eletrônicos,2500.0,2
+2025-01-22,Tênis,Calçados,199.9,3
+2025-01-22,Relógio,Acessórios,299.9,5
+2025-01-19,Sandália,Calçados,89.9,5
+2025-01-17,Mouse,Eletrônicos,99.9,3
+2025-01-05,Mouse,Eletrônicos,99.9,4
+2025-01-04,Sandália,Calçados,89.9,2
+2025-01-26,Smartphone,Eletrônicos,2500.0,4
+2025-01-31,Smartphone,Eletrônicos,2500.0,3
+2025-01-25,Sandália,Calçados,89.9,1
+2025-01-22,Camiseta,Acessórios,29.9,1
+2025-01-17,Relógio,Acessórios,299.9,5
+2025-01-30,Calça Jeans,Roupas,139.9,2
+2025-01-11,Mouse,Eletrônicos,99.9,3
+2025-01-31,Tênis,Calçados,199.9,2
+2025-01-14,Notebook,Eletrônicos,3500.0,5
+2025-01-24,Calça Jeans,Roupas,139.9,2
+2025-01-18,Jaqueta,Roupas,229.9,5
+2025-01-05,Fone de Ouvido,Eletrônicos,149.9,1
+2025-01-20,Mouse,Eletrônicos,99.9,4
+2025-01-31,Sandália,Calçados,89.9,2
+2025-01-08,Jaqueta,Roupas,229.9,3
+2025-01-15,Jaqueta,Roupas,229.9,4
+2025-01-22,Mouse,Eletrônicos,99.9,3
+2025-01-20,Tênis,Calçados,199.9,3
+2025-01-22,Notebook,Eletrônicos,3500.0,3
+2025-01-18,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-14,Mouse,Eletrônicos,99.9,3
+2025-01-09,Camiseta,Acessórios,29.9,1
+2025-01-22,Smartphone,Eletrônicos,2500.0,5
+2025-01-03,Camiseta,Acessórios,29.9,3
+2025-01-10,Sandália,Calçados,89.9,5
+2025-01-22,Sandália,Calçados,89.9,1
+2025-01-10,Smartphone,Eletrônicos,2500.0,3
+2025-01-16,Camiseta,Acessórios,29.9,1
+2025-01-23,Tênis,Calçados,199.9,5
+2025-01-04,Mouse,Eletrônicos,99.9,1
+2025-01-18,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-19,Relógio,Acessórios,299.9,4
+2025-01-09,Jaqueta,Roupas,229.9,2
+2025-01-03,Smartphone,Eletrônicos,2500.0,5
+2025-01-20,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-07,Jaqueta,Roupas,229.9,4
+2025-01-27,Mouse,Eletrônicos,99.9,1
+2025-01-12,Camiseta,Acessórios,29.9,3
+2025-01-16,Notebook,Eletrônicos,3500.0,3
+2025-01-26,Jaqueta,Roupas,229.9,2
+2025-01-06,Relógio,Acessórios,299.9,3
+2025-01-15,Mouse,Eletrônicos,99.9,2
+2025-01-29,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-03,Notebook,Eletrônicos,3500.0,5
+2025-01-12,Camiseta,Acessórios,29.9,1
+2025-01-28,Mouse,Eletrônicos,99.9,2
+2025-01-07,Jaqueta,Roupas,229.9,4
+2025-01-24,Smartphone,Eletrônicos,2500.0,5
+2025-01-14,Notebook,Eletrônicos,3500.0,5
+2025-01-02,Mouse,Eletrônicos,99.9,3
+2025-01-24,Jaqueta,Roupas,229.9,1
+2025-01-09,Camiseta,Acessórios,29.9,3
+2025-01-28,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-11,Notebook,Eletrônicos,3500.0,3
+2025-01-04,Notebook,Eletrônicos,3500.0,4
+2025-01-17,Smartphone,Eletrônicos,2500.0,2
+2025-01-19,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-30,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-09,Jaqueta,Roupas,229.9,3
+2025-01-10,Calça Jeans,Roupas,139.9,4
+2025-01-21,Smartphone,Eletrônicos,2500.0,1
+2025-01-23,Smartphone,Eletrônicos,2500.0,4
+2025-01-02,Sandália,Calçados,89.9,2
+2025-01-19,Smartphone,Eletrônicos,2500.0,2
+2025-01-17,Tênis,Calçados,199.9,3
+2025-01-13,Mouse,Eletrônicos,99.9,2
+2025-01-08,Mouse,Eletrônicos,99.9,1
+2025-01-08,Jaqueta,Roupas,229.9,5
+2025-01-23,Tênis,Calçados,199.9,3
+2025-01-30,Camiseta,Acessórios,29.9,3
+2025-01-02,Camiseta,Acessórios,29.9,5
+2025-01-13,Camiseta,Acessórios,29.9,4
+2025-01-12,Notebook,Eletrônicos,3500.0,4
+2025-01-01,Notebook,Eletrônicos,3500.0,1
+2025-01-22,Tênis,Calçados,199.9,1
+2025-01-08,Fone de Ouvido,Eletrônicos,149.9,5
+2025-01-30,Mouse,Eletrônicos,99.9,4
+2025-01-26,Camiseta,Acessórios,29.9,2
+2025-01-11,Jaqueta,Roupas,229.9,2
+2025-01-23,Tênis,Calçados,199.9,5
+2025-01-09,Mouse,Eletrônicos,99.9,4
+2025-01-29,Notebook,Eletrônicos,3500.0,1
+2025-01-30,Sandália,Calçados,89.9,2
+2025-01-07,Fone de Ouvido,Eletrônicos,149.9,5
+2025-01-14,Mouse,Eletrônicos,99.9,4
+2025-01-13,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-21,Camiseta,Acessórios,29.9,1
+2025-01-05,Notebook,Eletrônicos,3500.0,3
+2025-01-04,Camiseta,Acessórios,29.9,1
+2025-01-19,Jaqueta,Roupas,229.9,3
+2025-01-01,Tênis,Calçados,199.9,5
+2025-01-20,Calça Jeans,Roupas,139.9,5
+2025-01-09,Calça Jeans,Roupas,139.9,1
+2025-01-07,Tênis,Calçados,199.9,5
+2025-01-03,Sandália,Calçados,89.9,1
+2025-01-08,Mouse,Eletrônicos,99.9,5
+2025-01-18,Mouse,Eletrônicos,99.9,2
+2025-01-29,Sandália,Calçados,89.9,3
+2025-01-03,Camiseta,Acessórios,29.9,2
+2025-01-14,Sandália,Calçados,89.9,2
+2025-01-14,Mouse,Eletrônicos,99.9,3
+2025-01-10,Notebook,Eletrônicos,3500.0,4
+2025-01-21,Smartphone,Eletrônicos,2500.0,5
+2025-01-18,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-23,Camiseta,Acessórios,29.9,2
+2025-01-06,Tênis,Calçados,199.9,2
+2025-01-17,Tênis,Calçados,199.9,3
+2025-01-08,Relógio,Acessórios,299.9,1
+2025-01-17,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-14,Relógio,Acessórios,299.9,1
+2025-01-22,Mouse,Eletrônicos,99.9,4
+2025-01-04,Mouse,Eletrônicos,99.9,5
+2025-01-24,Notebook,Eletrônicos,3500.0,5
+2025-01-24,Mouse,Eletrônicos,99.9,5
+2025-01-24,Smartphone,Eletrônicos,2500.0,1
+2025-01-20,Notebook,Eletrônicos,3500.0,1
+2025-01-21,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-10,Camiseta,Acessórios,29.9,2
+2025-01-13,Sandália,Calçados,89.9,2
+2025-01-16,Notebook,Eletrônicos,3500.0,2
+2025-01-24,Camiseta,Acessórios,29.9,5
+2025-01-10,Jaqueta,Roupas,229.9,3
+2025-01-31,Camiseta,Acessórios,29.9,2
+2025-01-24,Calça Jeans,Roupas,139.9,5
+2025-01-27,Mouse,Eletrônicos,99.9,1
+2025-01-10,Relógio,Acessórios,299.9,3
+2025-01-12,Sandália,Calçados,89.9,4
+2025-01-17,Smartphone,Eletrônicos,2500.0,1
+2025-01-20,Fone de Ouvido,Eletrônicos,149.9,1
+2025-01-01,Smartphone,Eletrônicos,2500.0,3
+2025-01-19,Fone de Ouvido,Eletrônicos,149.9,4
+2025-01-04,Notebook,Eletrônicos,3500.0,5
+2025-01-05,Jaqueta,Roupas,229.9,4
+2025-01-31,Fone de Ouvido,Eletrônicos,149.9,3
+2025-01-05,Mouse,Eletrônicos,99.9,5
+2025-01-19,Jaqueta,Roupas,229.9,2
+2025-01-10,Jaqueta,Roupas,229.9,2
+2025-01-29,Notebook,Eletrônicos,3500.0,4
+2025-01-15,Relógio,Acessórios,299.9,2
+2025-01-05,Jaqueta,Roupas,229.9,5
+2025-01-25,Relógio,Acessórios,299.9,3
+2025-01-14,Tênis,Calçados,199.9,3
+2025-01-07,Smartphone,Eletrônicos,2500.0,4
+2025-01-28,Relógio,Acessórios,299.9,5
+2025-01-04,Fone de Ouvido,Eletrônicos,149.9,2
+2025-01-05,Tênis,Calçados,199.9,2
+2025-01-01,Sandália,Calçados,89.9,5
+2025-01-02,Smartphone,Eletrônicos,2500.0,3
+2025-01-30,Tênis,Calçados,199.9,1
+2025-01-25,Sandália,Calçados,89.9,1
+2025-01-15,Calça Jeans,Roupas,139.9,3
+2025-01-04,Relógio,Acessórios,299.9,1
+2025-01-18,Jaqueta,Roupas,229.9,3
+2025-01-20,Smartphone,Eletrônicos,2500.0,5
+2025-01-06,Jaqueta,Roupas,229.9,4
