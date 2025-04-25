@@ -12,4 +12,14 @@ Este projeto simula um pequeno fluxo de dados de vendas com etapas de ETL e visu
 
 ## 📁 Estrutura do Projeto
 
-projeto_vendas/ │ ├── data/ │ └── vendas.csv # Arquivo de dados de entrada │ ├── database/ │ └── vendas.db # Banco de dados SQLite gerado │ ├── etl/ │ └── etl_vendas.py # Script de ETL │ ├── dashboard/ │ └── dashboard_vendas.ipynb # Notebook de visualização │ ├── requirements.txt # Dependências do projeto ├── .gitignore # Ignora arquivos sensíveis e de ambiente └── README.md
+projeto_vendas/ 
+│ ├── data/ 
+│ └── vendas.csv # Arquivo de dados de entrada 
+│ ├── database/ 
+│ └── vendas.db # Banco de dados SQLite gerado 
+│ ├── etl/ │ └── etl_vendas.py # Script de ETL
+│ ├── dashboard/ 
+│ └── dashboard_vendas.ipynb # Notebook de visualização 
+│ ├── requirements.txt # Dependências do projeto 
+├── .gitignore # Ignora arquivos sensíveis e de ambiente 
+└── README.md
